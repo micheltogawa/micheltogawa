@@ -21,6 +21,7 @@
 - 🤖 **Bots para Discord** (JavaScript, Python, Lua)  
 - 🌐 **Sites e APIs** (PHP, HTML, JavaScript)  
 - 📊 **Scripts e automações**  
+- 🏙 **Criador da cidade Kaos Roleplay** *(servidor de roleplay)*  
 
 ---
 
@@ -37,5 +38,6 @@
 
 ---
 
-📫 **Contato:**  
-[📧 Email](mailto:micheltogawa729@gmail.com) | [💬 Discord](https://discord.gg/We5eNx5) | [🔗 Link](https://tinyurl.com/4hkv5rth)
+## 📫 Contato
+- **Pessoal:** [📧 Email](mailto:micheltogawa729@gmail.com) | [💬 Discord](https://discord.gg/We5eNx5) | [🌐 Site pessoal](https://tinyurl.com/4hkv5rth)  
+- **Kaos Roleplay:** [💬 Discord da cidade](https://discord.com/users/1125564941961801848) 
