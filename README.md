@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá! Eu sou o Michel 👋
 
-<!--
-**micheltogawa/micheltogawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo:** Me tornar Desenvolvedor FullStack  
+📚 **Estudando desde:** 2024  
+💻 **Linguagens que programo:**  
+- Java  
+- PHP  
+- JavaScript  
+- Python  
+- Lua  
+- HTML  
+- TypeScript  
 
-Here are some ideas to get you started:
+📖 **Atualmente estudando:**  
+- C++  
+- C#  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Meus Projetos
+- 🤖 **Bots para Discord** (JavaScript, Python, Lua)  
+- 🌐 **Sites e APIs** (PHP, HTML, JavaScript)  
+- 📊 **Scripts e automações**  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+📫 **Contato:**  
+[📧 Email](mailto:micheltogawa729@gmail.com) | [💬 Discord](https://discord.gg/We5eNx5) | [🔗 Link](https://tinyurl.com/4hkv5rth)
